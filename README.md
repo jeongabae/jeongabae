@@ -47,9 +47,9 @@ I enjoy building efficient, scalable, and maintainable backend systems. I'm alwa
 ---
 
 ### 🏆 Achievements
-- **Excellence Award** at 2022 National Smart IoT Idea Competition (IoT & AI-based Smart Side Mirror)
-- **Outstanding Team** at 2024 Gangwon SW Festival (Presentation on Rent-It project)
 - **Silver Award** at 2024 Medical AI Solution Idea Competition with Intel (AI & Semiconductor Talent Development Program)
+- **Outstanding Team** at 2024 Gangwon SW Festival (Presentation on Rent-It project)
+- **Excellence Award** at 2022 National Smart IoT Idea Competition (IoT & AI-based Smart Side Mirror)
 - **Published Paper**: "Lung Disease Classification and Detection in Chest X-ray Images using Deep Learning"
 ---
 
