@@ -23,17 +23,14 @@ I enjoy building efficient, scalable, and maintainable backend systems. I'm alwa
 #### 🛒 Mogu - Group Buying Matching Service
 - Developed a platform connecting students for group purchases to save costs.
 - **Tech**: Java 17, Spring Boot 3, AWS EC2, AWS RDS(Mysql 8), React Native
-- [🔗 GitHub](https://github.com/jeongabae/mogu-backend)
 
 #### 🔄 Rent-It - Local Rental Platform
 - Built a platform for users to rent and lend items within their local community.
 - **Tech**: Java 17, Spring Boot 3, AWS EC2, AWS RDS(Mysql 8), React Native
-- [🔗 GitHub](https://github.com/2024-Rent-It/Rent-It-Backend)
 
 #### 📢 Club Community Web Service
 - Developed a web-based platform for university club management and promotion.
 - **Tech**: Java, Spring Boot, Thymeleaf
-- [🔗 GitHub](https://github.com/jeongabae/mds)
 
 #### 🏥 Big Data-based Skin Diagnosis and Cosmetic Recommendation Platform
 - (Industry-Academia Collaboration Project)
