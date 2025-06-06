@@ -28,19 +28,6 @@ I enjoy building efficient, scalable, and maintainable backend systems. I'm alwa
 - Built a platform for users to rent and lend items within their local community.
 - **Tech**: Java 17, Spring Boot 3, AWS EC2, AWS RDS(Mysql 8), React Native
 
-#### 📢 Club Community Web Service
-- Developed a web-based platform for university club management and promotion.
-- **Tech**: Java, Spring Boot, Thymeleaf
-
-#### 🏥 Big Data-based Skin Diagnosis and Cosmetic Recommendation Platform
-- (Industry-Academia Collaboration Project)
-- Developed an AI-powered platform recommending skincare products based on skin condition analysis.
-- **Tech**: Kotlin, Android, TensorFlow Lite
-- **Key Contributions**: Integrated TensorFlow Lite into Android, implemented camera-based skin image analysis, and optimized cropped image processing for better predictions.
-
-#### 🐾 Personalized Diet and Health Management Web Application
-- Built a web-based platform that helps users manage healthy diets based on individual eating habits and goals.
-- **Tech**: Django, MariaDB, HTML/CSS/JavaScript
 ---
 
 ### 🏆 Achievements
@@ -54,7 +41,6 @@ I enjoy building efficient, scalable, and maintainable backend systems. I'm alwa
 - **Information Processing Engineer (정보처리기사)**, **SQL Developer (SQLD)**, **Applied Data Science Professional (ADSP)**
 - **TOPCIT Level 3 (559 Points)**
 - **OPIc IM2**
-
 ---
 
 ### 📫 Let's Connect
