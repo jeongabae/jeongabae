@@ -15,7 +15,7 @@ I enjoy building efficient, scalable, and maintainable backend systems. I'm alwa
 - **Languages**: Java
 - **Backend**: Spring Boot, Spring JPA, Spring Security
 - **Database**: MySQL
-- **Tools & DevOps**: AWS (EC2, RDS), Docker, Swagger
+- **Tools & DevOps**: AWS (EC2, RDS), Docker
 
 ---
 
