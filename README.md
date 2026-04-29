@@ -8,7 +8,7 @@ I enjoy building efficient, scalable, and maintainable backend systems. I'm alwa
 ---
 
 ### 🎓 Expriences
-- **Samsung Software Academy for Youth (SSAFY) 13th Cohort** *(2025.01 - Present)*
+- **Samsung Software Academy for Youth (SSAFY) 13th Cohort** *(2025.01 - 2025.12)*
 
   
 ### 🛠 Tech Stack
